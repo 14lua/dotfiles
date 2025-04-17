@@ -1,0 +1,19 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="FileChooser.ShowHidden">
+      <i c="1" l="1742456961084" />
+    </e>
+    <e n="RiderOpenSolution">
+      <i c="1" l="1742456954991" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1742457074082" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1742456991574" />
+    </e>
+    <e n="com.jetbrains.rider.plugins.efcore.features.eftools.InstallDotnetEfAction">
+      <i c="1" l="1742457038132" />
+    </e>
+  </component>
+</application>

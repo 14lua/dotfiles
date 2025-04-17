@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/lua/.config/VSCodium/User/workspaceStorage/edbbef2f4b818c64c122cc582020f495/redhat.java/.874c533e0647552ce8106f23381da3ecc55b698c-audit.json",
+    "files": [
+        {
+            "date": 1741680763222,
+            "name": "/home/lua/.config/VSCodium/User/workspaceStorage/edbbef2f4b818c64c122cc582020f495/redhat.java/client.log.2025-03-11",
+            "hash": "41bfb00390df00dbac0fd8e76c18eb0542b0e76545734c0b7602b29b36dc7eb0"
+        }
+    ],
+    "hashType": "sha256"
+}

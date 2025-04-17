@@ -1,0 +1,108 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVy</entry>
+        <entry encoding="base64">Xw==</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="school-7a0751f1">
+      <jump line="3" column="13" filename="$USER_HOME$/source/java-repos/school/Main.java" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/source/java-repos/school/Main.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/java-repos/school/school.iml" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/source/java-repos/school/Main.java" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/source/java-repos/school/Main.java" protocol="file" />
+      <jump line="6" column="24" filename="$USER_HOME$/source/java-repos/school/Main.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/java-repos/school/Bruch.java" protocol="file" />
+      <jump line="41" column="2" filename="$USER_HOME$/source/java-repos/school/Bruch.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/java-repos/school/Main.java" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/source/java-repos/school/Main.java" protocol="file" />
+      <jump line="2" column="10" filename="$USER_HOME$/source/java-repos/school/Main.java" protocol="file" />
+      <jump line="40" column="15" filename="$USER_HOME$/source/java-repos/school/Bruch.java" protocol="file" />
+      <jump line="49" column="0" filename="$USER_HOME$/source/java-repos/school/Bruch.java" protocol="file" />
+      <jump line="50" column="2" filename="$USER_HOME$/source/java-repos/school/Bruch.java" protocol="file" />
+      <jump line="54" column="11" filename="$USER_HOME$/source/java-repos/school/Bruch.java" protocol="file" />
+      <jump line="63" column="13" filename="$USER_HOME$/source/java-repos/school/Bruch.java" protocol="file" />
+      <jump line="67" column="13" filename="$USER_HOME$/source/java-repos/school/Bruch.java" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/source/java-repos/school/school.iml" timestamp="1744093408651">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/java-repos/school/Bruch.java" timestamp="1744096794309">
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="67" column="14" />
+        <mark key="." line="67" column="13" />
+        <mark key="^" line="67" column="14" />
+      </file>
+      <file name="$USER_HOME$/source/java-repos/school/Main.java" timestamp="1744095288377">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="11" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">c3VtbWFuZA==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">c3VtbWFuZA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">c3VidHJhaGVuZA==</text>
+      </register>
+      <register name="0" type="CHARACTER_WISE">
+        <text encoding="base64">ICAgIHphZWhsZXIgKj0gc3VtbWFuZC5uZW5uZXI7CiAgICBuZW5uZXIgKj0gc3VtbWFuZC5uZW5uZXI7CiAgICBzdW1tYW5kLnphZWhsZXIgKj0gbmVubmVyOwogICAgc3VtbWFuZC5uZW5uZXIgKj0gbmVubmVyOw==</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgIGludCB0ZQo=</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgIG5lbm5lcgo=</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">IGNhcnRlc2lhbiBjb29yZGlhdGUgCg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gV29ybGQiKTsK</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgIGlmIChuZW5uZXIgPT0gc3VtbWFuZC5uZW5uZXIpIHsKICAgICAgcmV0dXJuIG5ldyBCcnVjaCh6YWVobGVyICsgc3VtbWFuZC56YWVobGVyLCBuZW5uZXIpOwogICAgfQo=</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgQnJ1Y2goemFlaGxlciArIChzdW1tYW5kLnphZWhsZXIgKiBuZW4pKTsK</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBCcnVjaCgpOwogICAgfQo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

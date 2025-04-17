@@ -1,0 +1,21 @@
+[Info  - 9:13:45 AM] 2025/03/11 09:13:45 Created View (#1)
+	directory=/home/lua/.source/java-repos
+	view_type="AdHoc"
+	root_dir="file:///home/lua/.source/java-repos"
+	go_version="go version go1.24.0 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/lua/.cache/go-build GOMODCACHE:/home/lua/go/pkg/mod GOPATH:/home/lua/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:24 GoVersionOutput:go version go1.24.0 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 9:13:45 AM] 2025/03/11 09:13:45 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/lua/.source/java-repos
+	query=[./ builtin]
+	packages=2
+	duration=68.777313ms
+
+[Info  - 9:14:10 AM] 2025/03/11 09:14:10 Shutdown session
+	shutdown_session=1
+

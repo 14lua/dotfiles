@@ -1,0 +1,4 @@
+-Xmx1959m
+-Dide.managed.by.toolbox=/home/lua/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=c8bb85ee-39aa-493e-bb5d-cbac737c30ca
+-Dtoolbox.notification.portFile=/home/lua/.cache/JetBrains/Toolbox/ports/71175646-f2ff-463a-b2ea-2bd8b24ab622.port

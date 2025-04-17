@@ -1,0 +1,42 @@
+2025/03/05-08:08:12.104 eaa Creating DB /home/lua/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb since it was missing.
+2025/03/05-08:08:12.110 eaa Reusing MANIFEST /home/lua/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/05-08:08:12.145 eaa Level-0 table #5: started
+2025/03/05-08:08:12.149 eaa Level-0 table #5: 1320 bytes OK
+2025/03/05-08:08:12.153 eaa Delete type=0 #3
+2025/03/05-08:08:12.154 eaa Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/05-08:08:18.802 ea8 Level-0 table #7: started
+2025/03/05-08:08:18.805 ea8 Level-0 table #7: 1856 bytes OK
+2025/03/05-08:08:18.808 ea8 Delete type=0 #4
+2025/03/05-08:08:18.809 ea8 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/05-08:08:52.757 eb4 Level-0 table #9: started
+2025/03/05-08:08:52.760 eb4 Level-0 table #9: 3103 bytes OK
+2025/03/05-08:08:52.763 eb4 Delete type=0 #6
+2025/03/05-08:08:52.764 ea8 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 227 : 1
+2025/03/05-08:08:52.764 ea8 Compacting 1@0 + 1@1 files
+2025/03/05-08:08:52.766 ea8 Generated table #10@0: 91 keys, 2295 bytes
+2025/03/05-08:08:52.767 ea8 Compacted 1@0 + 1@1 files => 2295 bytes
+2025/03/05-08:08:52.770 ea8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/05-08:08:52.771 ea8 Delete type=2 #9
+2025/03/05-08:08:52.771 ea8 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 227 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/05-08:09:01.615 eaa Level-0 table #12: started
+2025/03/05-08:09:01.618 eaa Level-0 table #12: 2297 bytes OK
+2025/03/05-08:09:01.622 eaa Delete type=0 #8
+2025/03/05-08:09:01.622 eaa Delete type=2 #7
+2025/03/05-08:09:01.623 ea9 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 284 : 1
+2025/03/05-08:09:01.623 ea9 Compacting 1@0 + 1@1 files
+2025/03/05-08:09:01.625 ea9 Generated table #13@0: 107 keys, 2450 bytes
+2025/03/05-08:09:01.625 ea9 Compacted 1@0 + 1@1 files => 2450 bytes
+2025/03/05-08:09:01.629 ea9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/05-08:09:01.629 ea9 Delete type=2 #12
+2025/03/05-08:09:01.629 ea9 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 284 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/05-08:09:20.618 eb4 Level-0 table #15: started
+2025/03/05-08:09:20.621 eb4 Level-0 table #15: 2294 bytes OK
+2025/03/05-08:09:20.625 eb4 Delete type=0 #11
+2025/03/05-08:09:20.625 eb4 Delete type=2 #10
+2025/03/05-08:09:20.626 eaa Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 341 : 1
+2025/03/05-08:09:20.626 eaa Compacting 1@0 + 1@1 files
+2025/03/05-08:09:20.629 eaa Generated table #16@0: 123 keys, 2605 bytes
+2025/03/05-08:09:20.629 eaa Compacted 1@0 + 1@1 files => 2605 bytes
+2025/03/05-08:09:20.632 eaa compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/05-08:09:20.632 eaa Delete type=2 #15
+2025/03/05-08:09:20.633 eb5 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 341 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

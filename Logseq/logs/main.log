@@ -1,0 +1,11 @@
+[2025-03-05 08:17:26.238] [info] Logseq App(0.10.9) Starting... 
+[2025-03-05 08:17:26.256] [info] restore proxy settings {:type "system"}
+[2025-03-05 08:17:26.257] [info] set proxy to {:type "system"}
+[2025-03-05 08:17:29.074] [debug] :electron.handler/watch-dir {:path "/home/lua/.logseq/config"}
+[2025-03-05 08:18:09.634] [info] :electron.handler/open-dir open folder selection dialog
+[2025-03-05 08:18:52.714] [debug] :electron.handler/open-dir {:path "/home/lua/Logseq Files"}
+[2025-03-05 08:18:52.971] [debug] :electron.handler/watch-dir {:path "/home/lua/Logseq Files"}
+[2025-03-05 08:19:56.370] [info] :electron.handler/unlink {:path "/home/lua/Logseq Files/journals/2025_03_05.md"}
+[2025-03-05 08:19:56.372] [debug] :electron.handler/unlink recycle to /home/lua/Logseq Files/logseq/.recycle/journals_2025_03_05.md
+[2025-03-05 08:19:56.485] [debug] :electron.fs-watcher/on-unlink {:path "/home/lua/Logseq Files/journals/2025_03_05.md"}
+[2025-03-05 08:20:03.875] [debug] window-all-closed Quitting...

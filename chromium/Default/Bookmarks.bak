@@ -1,0 +1,135 @@
+{
+   "checksum": "df1f648ce83f5972ade04fc55d978992",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13385568918689760",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13385570066188153",
+            "date_last_used": "13385642254888540",
+            "guid": "6037cb5f-5bfe-46e5-a4a8-b108a439ec70",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "dotfiles/.config/hypr/hyprland.conf at main · DHDcc/dotfiles · GitHub",
+            "type": "url",
+            "url": "https://github.com/DHDcc/dotfiles/blob/main/.config/hypr/hyprland.conf"
+         }, {
+            "date_added": "13385641713611328",
+            "date_last_used": "0",
+            "guid": "2e36739e-29a1-499f-9731-55af6cc52160",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Minecraft Launcher wont start. : r/archlinux",
+            "type": "url",
+            "url": "https://www.reddit.com/r/archlinux/comments/1j0r8my/minecraft_launcher_wont_start/"
+         }, {
+            "date_added": "13385645296904785",
+            "date_last_used": "0",
+            "guid": "40b141f0-7768-4850-ae64-3c767109df6e",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Connection error that happens ONLY with Aternos servers : r/aternos",
+            "type": "url",
+            "url": "https://www.reddit.com/r/aternos/comments/n7fhq9/connection_error_that_happens_only_with_aternos/"
+         }, {
+            "date_added": "13385727042848286",
+            "date_last_used": "0",
+            "guid": "44e71184-b48e-43f9-93c0-253e2b8161f8",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "cmake-examples/01-basic at master · ttroy50/cmake-examples · GitHub",
+            "type": "url",
+            "url": "https://github.com/ttroy50/cmake-examples/tree/master/01-basic"
+         }, {
+            "date_added": "13385733174400939",
+            "date_last_used": "0",
+            "guid": "6389bfc6-eec0-485a-935b-dc97dc6e25c1",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "cmake-examples/01-basic/C-static-library at master · ttroy50/cmake-examples · GitHub",
+            "type": "url",
+            "url": "https://github.com/ttroy50/cmake-examples/tree/master/01-basic/C-static-library"
+         }, {
+            "date_added": "13385747867534997",
+            "date_last_used": "0",
+            "guid": "d32ef707-7f76-4767-81a1-65ea717b6ffd",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Go | CodeCrafters",
+            "type": "url",
+            "url": "https://app.codecrafters.io/tracks/go"
+         }, {
+            "date_added": "13385748218992857",
+            "date_last_used": "0",
+            "guid": "0e0f004a-0493-4ef8-9329-9adde7ace0e4",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "learn-go-with-tests/http-server/v1 at main · quii/learn-go-with-tests · GitHub",
+            "type": "url",
+            "url": "https://github.com/quii/learn-go-with-tests/tree/main/http-server/v1"
+         }, {
+            "date_added": "13385748226945864",
+            "date_last_used": "0",
+            "guid": "d0422f35-d43f-4880-bb0c-ce2d534c7432",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learn Go with Tests | Learn Go with tests",
+            "type": "url",
+            "url": "https://quii.gitbook.io/learn-go-with-tests"
+         }, {
+            "date_added": "13385908482537594",
+            "date_last_used": "0",
+            "guid": "f20a45f6-8303-4b03-828d-c358c95d01d0",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Is Hollow Knight a philosophical game? - Quora",
+            "type": "url",
+            "url": "https://www.quora.com/Is-Hollow-Knight-a-philosophical-game"
+         } ],
+         "date_added": "13385568918689767",
+         "date_last_used": "0",
+         "date_modified": "13385908482537594",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13385568918689769",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

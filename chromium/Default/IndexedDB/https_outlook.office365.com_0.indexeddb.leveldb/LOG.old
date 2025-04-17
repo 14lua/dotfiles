@@ -1,0 +1,17 @@
+2025/03/05-08:07:04.590 ea8 Reusing MANIFEST /home/lua/.config/chromium/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/05-08:07:04.591 ea8 Recovering log #4
+2025/03/05-08:07:04.591 ea8 Reusing old log /home/lua/.config/chromium/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/000004.log 
+2025/03/05-08:07:04.613 eb5 Level-0 table #8: started
+2025/03/05-08:07:04.616 eb5 Level-0 table #8: 631 bytes OK
+2025/03/05-08:07:04.620 eb5 Delete type=0 #4
+2025/03/05-08:07:04.620 ea8 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/05-08:07:04.621 ea8 Level-0 table #10: started
+2025/03/05-08:07:04.623 ea8 Level-0 table #10: 510 bytes OK
+2025/03/05-08:07:04.627 ea8 Delete type=0 #7
+2025/03/05-08:07:04.628 ea8 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 55 : 0
+2025/03/05-08:07:04.628 ea8 Compacting 1@0 + 1@1 files
+2025/03/05-08:07:04.630 ea8 Generated table #11@0: 14 keys, 602 bytes
+2025/03/05-08:07:04.630 ea8 Compacted 1@0 + 1@1 files => 602 bytes
+2025/03/05-08:07:04.634 ea8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/05-08:07:04.634 ea8 Delete type=2 #10
+2025/03/05-08:07:04.635 ea8 Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 55 : 0 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

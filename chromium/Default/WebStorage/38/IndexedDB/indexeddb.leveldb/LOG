@@ -1,0 +1,5 @@
+2025/03/19-08:13:28.726 c59 Creating DB /home/lua/.config/chromium/Default/WebStorage/38/IndexedDB/indexeddb.leveldb since it was missing.
+2025/03/19-08:13:28.734 c59 Reusing MANIFEST /home/lua/.config/chromium/Default/WebStorage/38/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/03/19-08:14:11.134 c5a Level-0 table #5: started
+2025/03/19-08:14:11.166 c5a Level-0 table #5: 2409879 bytes OK
+2025/03/19-08:14:11.171 c5a Delete type=0 #3

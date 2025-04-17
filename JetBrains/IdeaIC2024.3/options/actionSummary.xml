@@ -1,0 +1,67 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1744093387606" />
+    </e>
+    <e n="Actions.ActionsPlugin.GenerateToString">
+      <i c="1" l="1744093738733" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="13" l="1744096010677" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="324" l="1744096789812" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="114" l="1744096794153" />
+    </e>
+    <e n="EditorDown">
+      <i c="8" l="1744096571419" />
+    </e>
+    <e n="EditorEnter">
+      <i c="72" l="1744096762888" />
+    </e>
+    <e n="EditorEscape">
+      <i c="142" l="1744096825186" />
+    </e>
+    <e n="EditorTab">
+      <i c="23" l="1744096738535" />
+    </e>
+    <e n="Generate">
+      <i c="3" l="1744093761467" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1744093372811" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1744093375730" />
+    </e>
+    <e n="SaveAll">
+      <i c="49" l="1744096830287" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1744094233601" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1744093291495" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="1" l="1744095394853" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.SkipImportAction">
+      <i c="1" l="1744093195316" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="324" l="1744096789808" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1744093408631" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="2" l="1744096832563" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="51" l="1744096830282" />
+    </e>
+  </component>
+</application>

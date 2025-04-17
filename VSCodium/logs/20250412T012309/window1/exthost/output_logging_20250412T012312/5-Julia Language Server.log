@@ -1,0 +1,58 @@
+[ Info: Starting LS with Julia 1.11.4
+  Activating project at `~/.vscode-oss/extensions/julialang.language-julia-1.127.2-universal/scripts/environments/languageserver/v1.11`
+[ Info: Starting the Julia Language Server
+Precompiling InteractiveUtils...
+   1569.0 ms  ✓ InteractiveUtils
+  1 dependency successfully precompiled in 2 seconds. 2 already precompiled.
+Precompiling LanguageServer...
+   1301.8 ms  ✓ Glob
+   1522.3 ms  ✓ Unicode
+   1584.4 ms  ✓ Zlib_jll
+   1665.4 ms  ✓ CancellationTokens
+   1740.0 ms  ✓ Mmap
+   2056.0 ms  ✓ OrderedCollections
+   2114.2 ms  ✓ Serialization
+   2150.4 ms  ✓ AutoHashEquals
+   2426.3 ms  ✓ URIs
+   1789.0 ms  ✓ Compat
+   3953.8 ms  ✓ Crayons
+   2495.1 ms  ✓ Preferences
+   2874.2 ms  ✓ JSON
+   1266.2 ms  ✓ PrecompileTools
+   1711.7 ms  ✓ JSONRPC
+   7377.8 ms  ✓ Tokenize
+   6201.5 ms  ✓ DataStructures
+   8395.0 ms  ✓ MacroTools
+  10162.6 ms  ✓ Test
+   1144.7 ms  ✓ ExceptionUnwrapping
+   2438.9 ms  ✓ Salsa
+  13511.7 ms  ✓ CSTParser
+  21940.9 ms  ✓ CommonMark
+  28780.8 ms  ✓ StyledStrings
+  37132.4 ms  ✓ JuliaSyntax
+    709.9 ms  ✓ TestItemDetection
+   4883.9 ms  ✓ JuliaWorkspaces
+  37264.5 ms  ✓ JuliaFormatter
+  68003.4 ms  ✓ REPL
+   9210.3 ms  ✓ Pkg → REPLExt
+  13049.4 ms  ✓ SymbolServer
+   3096.3 ms  ✓ StaticLint
+  18843.3 ms  ✓ LanguageServer
+  33 dependencies successfully precompiled in 141 seconds. 22 already precompiled.
+[ Info: Symbol server store is at '/home/lua/.config/VSCodium/User/globalStorage/julialang.language-julia/symbolstorev5'.
+[ Info: Starting LS at 1744413981
+============== Startup timings ==============
+       0.0 - LS startup started (0.0s since last event)
+   0.12805 - connection established (0.12805s since last event)
+     5.029 - (async) listening to client events (4.9009s since last event)
+    5.1057 - (async) listening to symbol server events (0.076749s since last event)
+    5.1851 - starting combined listener (0.079403s since last event)
+    5.2334 - symbols received (0.048256s since last event)
+    5.2353 - extended methods computed (0.0019119s since last event)
+    5.2353 - project deps computed (1.9073e-5s since last event)
+    5.2353 - env map computed (1.9073e-6s since last event)
+    8.6174 - initial lint done (3.3821s since last event)
+    8.7509 - LSP/initialize (0.1335s since last event)
+    11.776 - LSP/initialized (3.0252s since last event)
+=============================================
+

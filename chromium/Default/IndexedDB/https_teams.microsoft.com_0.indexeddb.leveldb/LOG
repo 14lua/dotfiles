@@ -1,0 +1,37 @@
+2025/03/19-08:13:07.467 c59 Reusing MANIFEST /home/lua/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/19-08:13:07.468 c59 Recovering log #3
+2025/03/19-08:13:07.468 c59 Reusing old log /home/lua/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000003.log 
+2025/03/19-08:13:09.782 c65 Level-0 table #5: started
+2025/03/19-08:13:09.784 c65 Level-0 table #5: 62445 bytes OK
+2025/03/19-08:13:09.788 c65 Delete type=0 #3
+2025/03/19-08:13:09.788 c65 Manual compaction at level-0 from '\x00\x14\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/19-08:13:12.657 c5a Level-0 table #7: started
+2025/03/19-08:13:12.674 c5a Level-0 table #7: 616522 bytes OK
+2025/03/19-08:13:12.678 c5a Delete type=0 #4
+2025/03/19-08:13:12.679 c5a Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/19-08:13:12.680 c5a Manual compaction at level-1 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00P\x00\x00\xc8\x04\x00E\x00v\x00t\x00s' @ 7637 : 1
+2025/03/19-08:13:12.680 c5a Compacting 1@1 + 1@2 files
+2025/03/19-08:13:12.706 c5a Generated table #8@1: 2641 keys, 547064 bytes
+2025/03/19-08:13:12.707 c5a Compacted 1@1 + 1@2 files => 547064 bytes
+2025/03/19-08:13:12.710 c5a compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/19-08:13:12.711 c5a Delete type=2 #7
+2025/03/19-08:13:12.712 c5a Manual compaction at level-1 from '\x00P\x00\x00\xc8\x04\x00E\x00v\x00t\x00s' @ 7637 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/19-08:13:17.520 c5b Level-0 table #10: started
+2025/03/19-08:13:17.558 c5b Level-0 table #10: 1823850 bytes OK
+2025/03/19-08:13:17.566 c5b Delete type=0 #6
+2025/03/19-08:13:17.566 c5b Delete type=2 #5
+2025/03/19-08:13:17.685 c5a Compacting 1@1 + 1@2 files
+2025/03/19-08:13:17.729 c5a Generated table #11@1: 2683 keys, 786702 bytes
+2025/03/19-08:13:17.729 c5a Compacted 1@1 + 1@2 files => 786702 bytes
+2025/03/19-08:13:17.732 c5a compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/19-08:13:18.435 c5b Level-0 table #13: started
+2025/03/19-08:13:18.462 c5b Level-0 table #13: 1828215 bytes OK
+2025/03/19-08:13:18.466 c5b Delete type=2 #8
+2025/03/19-08:13:18.467 c5b Delete type=2 #10
+2025/03/19-08:13:18.467 c5b Delete type=0 #9
+2025/03/19-08:14:12.051 c5a Compacting 1@1 + 1@2 files
+2025/03/19-08:14:12.094 c5a Generated table #14@1: 3014 keys, 1007035 bytes
+2025/03/19-08:14:12.095 c5a Compacted 1@1 + 1@2 files => 1007035 bytes
+2025/03/19-08:14:12.098 c5a compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/19-08:14:12.099 c5a Delete type=2 #11
+2025/03/19-08:14:12.099 c5a Delete type=2 #13

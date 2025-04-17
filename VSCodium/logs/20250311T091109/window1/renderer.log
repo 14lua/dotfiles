@@ -1,0 +1,6 @@
+2025-03-11 09:11:10.689 [info] Started local extension host with pid 41247.
+2025-03-11 09:11:11.242 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because extension host(s) are already running. Reload window.
+2025-03-11 09:11:11.276 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2025-03-11 09:11:11.614 [info] Started local extension host with pid 41284.
+2025-03-11 09:11:12.862 [error] [Extension Host] Can't glibc version from ldd --version output: ldd (GNU libc) 2.41
+2025-03-11 09:11:13.714 [info] [perf] Render performance baseline is 57ms

@@ -1,0 +1,5 @@
+2025/03/19-11:42:04.530 1783 Creating DB /home/lua/.config/chromium/Default/IndexedDB/https_lebk247-my.sharepoint.com_0.indexeddb.leveldb since it was missing.
+2025/03/19-11:42:04.537 1783 Reusing MANIFEST /home/lua/.config/chromium/Default/IndexedDB/https_lebk247-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/19-11:42:51.226 1785 Level-0 table #5: started
+2025/03/19-11:42:51.250 1785 Level-0 table #5: 2351684 bytes OK
+2025/03/19-11:42:51.255 1785 Delete type=0 #3

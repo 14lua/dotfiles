@@ -1,0 +1,7 @@
+2025/04/05-18:37:02.893 13f01 Reusing MANIFEST /home/lua/.config/chromium/Default/IndexedDB/https_account.adobe.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/05-18:37:02.893 13f01 Recovering log #4
+2025/04/05-18:37:02.894 13f01 Reusing old log /home/lua/.config/chromium/Default/IndexedDB/https_account.adobe.com_0.indexeddb.leveldb/000004.log 
+2025/04/05-18:37:03.668 13ef2 Level-0 table #8: started
+2025/04/05-18:37:03.671 13ef2 Level-0 table #8: 541 bytes OK
+2025/04/05-18:37:03.675 13ef2 Delete type=0 #4
+2025/04/05-18:37:03.676 13ef2 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

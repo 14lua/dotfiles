@@ -1,0 +1,42 @@
+{
+	"layer": "top",
+	"modules-left": ["hyprland/workspaces", "hyprland/submap"],
+	"modules-center": ["hyprland/window"],
+	"modules-right": ["pulseaudio", "network", "bluetooth", "cpu", "memory", "temperature", "battery", "clock"],
+	"bluetooth": {
+		"format": " {status}",
+		"format-disabled": "" , // an empty format will hide the module
+		"format-connected": " {num_connections}",
+		"tooltip-format": "{device_alias}",
+		"tooltip-format-connected": " {device_enumerate}",
+		"tooltip-format-enumerate-connected": "{device_alias}",
+		"on-click": "blueman-manager"
+	},
+	"pulseaudio": {
+		"format": "{volume}%",
+		"format-muted": "Muted"
+	},
+	"network": {
+		"format": "🖧 {essid}",
+		"format-disconnected": "🖧",
+		"max-length": 10,
+		"on-click": "nm-connection-editor"
+	},
+	"cpu": {
+		"format": "CPU {usage}%"
+	},
+	"memory": {
+		"format": "MEM {percentage}%"
+	},
+	"temperature": {
+		"critical-threshold": 80,
+		"format": " {temperatureC}°C"
+	},
+	"battery": {
+		"format": "{capacity}% {icon}",
+		"format-icons": ["", "", "", "", ""]
+	},
+	"clock": {
+		"format-alt": "{:%a, %d. %b  %H:%M}"
+	}
+}

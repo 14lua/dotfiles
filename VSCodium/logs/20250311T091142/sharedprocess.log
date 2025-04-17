@@ -1,0 +1,5 @@
+2025-03-11 09:12:14.778 [info] Getting Manifest... redhat.java
+2025-03-11 09:12:16.047 [info] Installing extension: redhat.java {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lua/.vscode-oss/extensions/extensions.json","path":"/home/lua/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.98.0","date":"2025-03-11T08:03:47.484Z"}}
+2025-03-11 09:12:42.527 [info] Extracted extension to file:///home/lua/.vscode-oss/extensions/redhat.java-1.39.0-linux-x64: redhat.java
+2025-03-11 09:12:42.591 [info] Renamed to /home/lua/.vscode-oss/extensions/redhat.java-1.39.0-linux-x64
+2025-03-11 09:12:42.641 [info] Extension installed successfully: redhat.java vscode-userdata:/home/lua/.vscode-oss/extensions/extensions.json

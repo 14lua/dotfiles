@@ -1,0 +1,18 @@
+2025/03/20-15:52:21.277 4a1 Creating DB /home/lua/.config/chromium/Default/IndexedDB/https_www.digitalocean.com_0.indexeddb.leveldb since it was missing.
+2025/03/20-15:52:21.285 4a1 Reusing MANIFEST /home/lua/.config/chromium/Default/IndexedDB/https_www.digitalocean.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/20-15:52:21.308 4a0 Level-0 table #5: started
+2025/03/20-15:52:21.311 4a0 Level-0 table #5: 1676 bytes OK
+2025/03/20-15:52:21.315 4a0 Delete type=0 #3
+2025/03/20-15:52:21.315 4a0 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/20-15:52:42.527 4a1 Level-0 table #7: started
+2025/03/20-15:52:42.530 4a1 Level-0 table #7: 256 bytes OK
+2025/03/20-15:52:42.532 4a1 Delete type=0 #4
+2025/03/20-15:52:42.533 4a1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/03/20-15:52:42.533 4a1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 105 : 0
+2025/03/20-15:52:42.533 4a1 Compacting 1@1 + 1@2 files
+2025/03/20-15:52:42.535 4a1 Generated table #8@1: 32 keys, 815 bytes
+2025/03/20-15:52:42.535 4a1 Compacted 1@1 + 1@2 files => 815 bytes
+2025/03/20-15:52:42.537 4a1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/20-15:52:42.537 4a1 Delete type=2 #7
+2025/03/20-15:52:42.538 4a1 Delete type=2 #5
+2025/03/20-15:52:42.538 4a1 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 105 : 0 .. (end); will stop at (end)

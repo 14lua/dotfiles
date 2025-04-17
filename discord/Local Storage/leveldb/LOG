@@ -1,0 +1,43 @@
+2025/04/15-19:28:54.549 165ac Reusing MANIFEST /home/lua/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/04/15-19:28:54.558 165ac Recovering log #203
+2025/04/15-19:28:54.559 165ac Reusing old log /home/lua/.config/discord/Local Storage/leveldb/000203.log 
+2025/04/15-19:30:13.840 165ad Level-0 table #207: started
+2025/04/15-19:30:13.846 165ad Level-0 table #207: 94693 bytes OK
+2025/04/15-19:30:13.850 165ad Delete type=0 #203
+2025/04/15-19:30:13.850 165ad Compacting 4@0 + 2@1 files
+2025/04/15-19:30:13.874 165ad Generated table #208@0: 6 keys, 2518046 bytes
+2025/04/15-19:30:13.890 165ad Generated table #209@0: 58 keys, 1094030 bytes
+2025/04/15-19:30:13.890 165ad Compacted 4@0 + 2@1 files => 3612076 bytes
+2025/04/15-19:30:13.893 165ad compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/04/15-19:30:13.893 165ad Delete type=2 #197
+2025/04/15-19:30:13.893 165ad Delete type=2 #204
+2025/04/15-19:30:13.893 165ad Delete type=2 #207
+2025/04/15-19:30:13.893 165ad Delete type=2 #202
+2025/04/15-19:30:13.893 165ad Delete type=2 #200
+2025/04/15-19:30:13.893 165ad Delete type=2 #198
+2025/04/15-19:48:13.514 165ad Level-0 table #211: started
+2025/04/15-19:48:13.543 165ad Level-0 table #211: 3603501 bytes OK
+2025/04/15-19:48:13.546 165ad Delete type=0 #206
+2025/04/15-20:13:54.047 165ac Level-0 table #213: started
+2025/04/15-20:13:54.053 165ac Level-0 table #213: 98485 bytes OK
+2025/04/15-20:13:54.057 165ac Delete type=0 #210
+2025/04/15-20:48:54.048 165ad Level-0 table #215: started
+2025/04/15-20:48:54.073 165ad Level-0 table #215: 90839 bytes OK
+2025/04/15-20:48:54.077 165ad Delete type=0 #212
+2025/04/15-23:56:58.705 165ad Level-0 table #217: started
+2025/04/15-23:56:58.747 165ad Level-0 table #217: 2534248 bytes OK
+2025/04/15-23:56:58.752 165ad Delete type=0 #214
+2025/04/15-23:56:58.754 165ad Compacting 4@0 + 2@1 files
+2025/04/15-23:56:58.810 165ad Generated table #218@0: 6 keys, 2519300 bytes
+2025/04/15-23:56:58.858 165ad Generated table #219@0: 56 keys, 1096001 bytes
+2025/04/15-23:56:58.858 165ad Compacted 4@0 + 2@1 files => 3615301 bytes
+2025/04/15-23:56:58.862 165ad compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/04/15-23:56:58.863 165ad Delete type=2 #215
+2025/04/15-23:56:58.863 165ad Delete type=2 #217
+2025/04/15-23:56:58.863 165ad Delete type=2 #211
+2025/04/15-23:56:58.863 165ad Delete type=2 #213
+2025/04/15-23:56:58.863 165ad Delete type=2 #209
+2025/04/15-23:56:58.863 165ad Delete type=2 #208
+2025/04/15-23:57:14.031 165ad Level-0 table #221: started
+2025/04/15-23:57:14.036 165ad Level-0 table #221: 90288 bytes OK
+2025/04/15-23:57:14.040 165ad Delete type=0 #216
