@@ -1,4 +1,0 @@
-Trying to locate Julia binary...
-Juliaup not found, locating Julia by other means.
-The identified Julia executable is "/home/lua/.juliaup/bin/julia" with args "".
-The current PATH environment variable is "/home/lua/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl".

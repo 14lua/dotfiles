@@ -1,3 +1,0 @@
-Verbose logging: off  (Use "lldb.verboseLogging" setting to change)
-Platform: linux x64
-Initial debug configuration: { noDebug: true }

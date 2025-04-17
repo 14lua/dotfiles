@@ -1,1 +1,0 @@
-INDEX VERSION 1.134+/home/lua/.config/VSCodium/User/workspaceStorage/edbbef2f4b818c64c122cc582020f495/redhat.java/ss_ws/.metadata/.plugins/org.eclipse.jdt.core

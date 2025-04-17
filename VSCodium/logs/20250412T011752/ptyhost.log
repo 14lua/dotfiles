@@ -1,1 +1,0 @@
-2025-04-12 01:19:21.202 [error] Failed to set sticky bit on /tmp/lua-codium-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/lua-codium-zsh'

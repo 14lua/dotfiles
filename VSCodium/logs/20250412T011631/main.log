@@ -1,7 +1,0 @@
-2025-04-12 01:16:31.660 [error] Invalid path provided: /home/lua/.source/java-repos, ENOENT: no such file or directory, stat '/home/lua/.source/java-repos'
-2025-04-12 01:16:31.730 [info] update#setState disabled
-2025-04-12 01:16:31.730 [info] update#ctor - updates are disabled as there is no update URL
-2025-04-12 01:17:07.731 [info] Extension host with pid 86022 exited with code: 0, signal: unknown.
-2025-04-12 01:17:07.751 [info] Extension host with pid 85988 exited with code: 0, signal: unknown.
-2025-04-12 01:17:50.596 [info] Extension host with pid 86268 exited with code: 0, signal: unknown.
-2025-04-12 01:17:50.656 [info] Extension host with pid 86267 exited with code: 0, signal: unknown.

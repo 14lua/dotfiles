@@ -1,5 +1,0 @@
-2025-03-11 09:11:09.498 [error] Invalid path provided: /home/lua/source/cpp-repos/introspekt, ENOENT: no such file or directory, stat '/home/lua/source/cpp-repos/introspekt'
-2025-03-11 09:11:09.553 [info] update#setState disabled
-2025-03-11 09:11:09.554 [info] update#ctor - updates are disabled as there is no update URL
-2025-03-11 09:11:38.756 [info] Extension host with pid 41284 exited with code: 0, signal: unknown.
-2025-03-11 09:11:38.776 [info] Extension host with pid 41247 exited with code: 0, signal: unknown.
