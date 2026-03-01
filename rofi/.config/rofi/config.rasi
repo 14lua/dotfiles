@@ -1,8 +1,8 @@
-@import "/home/mat/.cache/wal/colors-rofi-dark.rasi"
+@import "/home/14lua/.cache/wal/colors-rofi-dark.rasi"
 /* Replace the path with your USERNAME */
 
 * {
-    font:   "JetBrainsMono 14";
+    font:   "JetBrainsMono NF 14";
     margin:     0px;
     padding:    0px;
     spacing:    0px;
