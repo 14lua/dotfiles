@@ -61,9 +61,15 @@ zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 
 # Aliases
 alias ls='ls --color'
-alias vim='nvim'
+alias l='ls --color'
+alias ll='ls -la --color'
+alias nv='nvim'
 alias c='clear'
+alias ff='fastfetch'
 
 # Shell integrations
 eval "$(fzf --zsh)"
-eval "$(zoxide init --cmd cd zsh)"
+eval "$(zoxide init zsh)"
+
+# Path
+export PATH="$PATH:/home/14lua/.local/bin"
