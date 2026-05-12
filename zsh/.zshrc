@@ -70,6 +70,7 @@ alias ff='fastfetch'
 # Shell integrations
 eval "$(fzf --zsh)"
 eval "$(zoxide init zsh)"
+eval "$(luarocks path)"
 
 # Path
 export PATH="$PATH:/home/14lua/.local/bin"
