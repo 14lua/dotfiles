@@ -74,3 +74,8 @@ eval "$(luarocks path)"
 
 # Path
 export PATH="$PATH:/home/14lua/.local/bin"
+export PATH="$PATH:/home/14lua/.bun/bin"
+
+
+# Load Angular CLI autocompletion.
+source <(ng completion script)
