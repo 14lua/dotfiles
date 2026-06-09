@@ -1,133 +1,129 @@
 // -*- mode: jsonc -*-
 {
-    "layer": "top", // Waybar at top layer
-    // "position": "bottom", // Waybar position (top|bottom|left|right)
-    "width": 1280, // Waybar width
-    "margin-top": 8,
-    "margin-left": 8,
-    "margin-right": 8,
-    "spacing": 8, // Gaps between modules (4px)
-    "modules-left": [
-        "custom/distrologo",
-        "hyprland/workspaces",
-        "hyprland/window"
-    ],
-    "modules-center": [
-        "cpu",
-        "temperature",
-        "memory"
-    ],
-    "modules-right": [
-        // "hyprland/language",
-        "pulseaudio",
-        "battery",
-        "power-profiles-daemon",
-        "custom/bluetooth",
-        "custom/wifi",
-        "clock"
-    ],
-    // Modules configuration
-    "hyprland/workspaces": {
-        "disable-scroll": true,
-        "all-outputs": true,
-        "warp-on-scroll": false,
-        "format": "{name}", 
-        "format-icons": {
-            "urgent": "[!]",
-            "focused": "[]",
-            "default": "[]"
-        },
-        "persistent-workspaces": {
-            "*": [ 1,2,3,4,5 ]
-    	}
+  "layer": "top", // Waybar at top layer
+  // "position": "bottom", // Waybar position (top|bottom|left|right)
+  "width": 1280, // Waybar width
+  "margin-top": 8,
+  "margin-left": 8,
+  "margin-right": 8,
+  "spacing": 8, // Gaps between modules (4px)
+  "modules-left": [
+    "custom/distrologo",
+    "hyprland/workspaces",
+    "hyprland/window",
+  ],
+  "modules-center": ["cpu", "temperature", "memory"],
+  "modules-right": [
+    // "hyprland/language",
+    "pulseaudio",
+    "battery",
+    "power-profiles-daemon",
+    "custom/bluetooth",
+    "custom/wifi",
+    "clock",
+  ],
+  // Modules configuration
+  "hyprland/workspaces": {
+    "disable-scroll": true,
+    "all-outputs": true,
+    "warp-on-scroll": false,
+    "format": "{name}",
+    "format-icons": {
+      "urgent": "[!]",
+      "focused": "[]",
+      "default": "[]",
     },
-    "clock": {
-        // "timezone": "America/New_York",
-        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-        "format-alt": "{:%Y-%m-%d}"
+    "persistent-workspaces": {
+      "*": [1, 2, 3, 4, 5],
     },
-    "cpu": {
-        "format": "{usage}% ",
-        "tooltip": false
+  },
+  "clock": {
+    // "timezone": "America/New_York",
+    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+    "format-alt": "{:%Y-%m-%d}",
+  },
+  "cpu": {
+    "format": "{usage}% ",
+    "tooltip": false,
+  },
+  "memory": {
+    "format": "{}% ",
+  },
+  "temperature": {
+    "critical-threshold": 80,
+    "format": "{temperatureC}°C ",
+  },
+  "battery": {
+    "states": {
+      // "good": 95,
+      "warning": 30,
+      "critical": 15,
     },
-    "memory": {
-        "format": "{}% "
+    "format": "{capacity}% {icon}",
+    "format-full": "{capacity}% {icon}",
+    "format-charging": "{capacity}% 󱐋",
+    "format-plugged": "{capacity}% ",
+    "format-alt": "{time} {icon}",
+    // "format-good": "", // An empty format will hide the module
+    // "format-full": "",
+    "format-icons": [" ", " ", " ", " ", " "],
+  },
+  "power-profiles-daemon": {
+    "format": "{icon}",
+    "tooltip-format": "Power profile: {profile}\nDriver: {driver}",
+    "tooltip": true,
+    "format-icons": {
+      "default": " ",
+      "performance": " ",
+      "balanced": " ",
+      "power-saver": " ",
     },
-    "temperature": {
-        "critical-threshold": 80,
-        "format": "{temperatureC}°C "
+  },
+  "network": {
+    // "interface": "wlp2*", // (Optional) To force the use of this interface
+    "format-wifi": "{essid} ({signalStrength}%)  ",
+    "format-ethernet": "{ipaddr}/{cidr}  ",
+    "tooltip-format": "{ifname} via {gwaddr}  ",
+    "format-linked": "{ifname} (No IP)  ",
+    "format-disconnected": "Disconnected ⚠ ",
+    "format-alt": "{ifname}: {ipaddr}/{cidr}",
+  },
+  "pulseaudio": {
+    "scroll-step": 1, // %, can be a float
+    "format": "{volume}% {icon} {format_source}",
+    "format-bluetooth": "{volume}% {icon} {format_source}",
+    "format-bluetooth-muted": " {icon} {format_source}",
+    "format-muted": "󰝟 {format_source}",
+    "format-source": "{volume}% ",
+    "format-source-muted": " ",
+    "format-icons": {
+      "headphone": "",
+      "hands-free": "",
+      "headset": "",
+      "phone": "",
+      "portable": "",
+      "car": "",
+      "default": [" ", " ", " "],
     },
-    "battery": {
-        "states": {
-            // "good": 95,
-            "warning": 30,
-            "critical": 15
-        },
-        "format": "{capacity}% {icon}",
-        "format-full": "{capacity}% {icon}",
-        "format-charging": "{capacity}% 󱐋",
-        "format-plugged": "{capacity}% ",
-        "format-alt": "{time} {icon}",
-        // "format-good": "", // An empty format will hide the module
-        // "format-full": "",
-        "format-icons": ["", "", "", "", ""]
+    "on-click": "pavucontrol",
+  },
+  "custom/wifi": {
+    "format": " ",
+    "tooltip": false,
+    "on-click": "nm-connection-editor",
+  },
+  "custom/bluetooth": {
+    "format": "",
+    "tooltip": false,
+    "on-click": "blueberry",
+  },
+  "custom/distrologo": {
+    "format": "{icon}",
+    "tooltip-format": "Lua loves you",
+    "tooltip": true,
+    "format-icons": {
+      "default": "󰣇",
     },
-    "power-profiles-daemon": {
-      "format": "{icon}",
-      "tooltip-format": "Power profile: {profile}\nDriver: {driver}",
-      "tooltip": true,
-      "format-icons": {
-        "default": "",
-        "performance": "",
-        "balanced": "",
-        "power-saver": ""
-      }
-    },
-    "network": {
-        // "interface": "wlp2*", // (Optional) To force the use of this interface
-        "format-wifi": "{essid} ({signalStrength}%)  ",
-        "format-ethernet": "{ipaddr}/{cidr}  ",
-        "tooltip-format": "{ifname} via {gwaddr}  ",
-        "format-linked": "{ifname} (No IP)  ",
-        "format-disconnected": "Disconnected ⚠ ",
-        "format-alt": "{ifname}: {ipaddr}/{cidr}"
-    },
-    "pulseaudio": {
-        "scroll-step": 1, // %, can be a float
-        "format": "{volume}% {icon} {format_source}",
-        "format-bluetooth": "{volume}% {icon} {format_source}",
-        "format-bluetooth-muted": " {icon} {format_source}",
-        "format-muted": "󰝟 {format_source}",
-        "format-source": "{volume}% ",
-        "format-source-muted": " ",
-        "format-icons": {
-            "headphone": "",
-            "hands-free": "",
-            "headset": "",
-            "phone": "",
-            "portable": "",
-            "car": "",
-            "default": ["", "", ""]
-        },
-        "on-click": "pavucontrol"
-    },
-    "custom/wifi": {
-        "format" : "",
-		"tooltip": false,
-		"on-click": "nm-connection-editor"
-    },
-    "custom/bluetooth": {
-        "format" : "",
-		"tooltip": false,
-		"on-click": "blueberry"
-    },
-    "custom/distrologo": {
-      "format": "{icon}",
-      "tooltip-format": "Lua loves you",
-      "tooltip": true,
-      "format-icons": {
-        "default": "󰣇"
-      },
-		  "on-click": "kitty --hold bash -c fastfetch"
-    }
+    "on-click": "kitty --hold bash -c fastfetch",
+  },
 }
