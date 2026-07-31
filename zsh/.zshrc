@@ -31,8 +31,6 @@ autoload -Uz compinit && compinit
 
 zinit cdreplay -q
 
-eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/omp.toml)"
-
 # Keybindings
 bindkey -e
 bindkey '^p' history-search-backward
@@ -79,3 +77,5 @@ export PATH="$PATH:/home/14lua/.bun/bin"
 
 # Load Angular CLI autocompletion.
 source <(ng completion script)
+
+eval "$(starship init zsh)"
