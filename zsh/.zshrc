@@ -79,3 +79,6 @@ export PATH="$PATH:/home/14lua/.bun/bin"
 source <(ng completion script)
 
 eval "$(starship init zsh)"
+export PYENV_ROOT="$HOME/.pyenv"
+[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init - zsh)"
